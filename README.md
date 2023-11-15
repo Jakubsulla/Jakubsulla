@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MySQL database a nd how to use it with python
 - 👩‍💻 I’m using
   - Python
-  - 
+  - other will be added in next update
 
 <!---
 Jakubsulla/Jakubsulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
