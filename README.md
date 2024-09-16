@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jakubsulla
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning MySQL database a nd how to use it with python
+- 🌱 I am currently learning C# and software development analytics.
 - My projects
   - [sullova.cz](https://www.sullova.cz) - The official website of a doctor providing general medical care and services.
   - Working on my portfolio website (coming soon!)
