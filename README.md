@@ -3,7 +3,7 @@
 - 🌱 I am currently learning C# and software development analytics.
 - My projects
   - [sullova.cz](https://www.sullova.cz) - The official website of a doctor providing general medical care and services.
-  - [Jakubsulla](https://jakub.sulla.eu) / My portfolio website (Some function are not avaliable yet)
+  - [Jakubsulla](https://jakub.sulla.eu) - My portfolio website (Some function are not avaliable yet)
 - 👩‍💻 I’m using and I know
   - Python
   - SQL
